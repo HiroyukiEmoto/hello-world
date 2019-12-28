@@ -1,3 +1,2 @@
 # hello-world
-
-I like pizza.
+just another repository
